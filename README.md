@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @donatgithub12
-- 👀 I’m interested in creating REST API using Golang
-- 🌱 I’m currently learning Web programming
+- 👀 I’m interested in building AI/ML models for solving problems
 - 💞️ I’m looking to collaborate on large projects
 - 📫 How to reach me donjosedonvilla@gmail.com
 
